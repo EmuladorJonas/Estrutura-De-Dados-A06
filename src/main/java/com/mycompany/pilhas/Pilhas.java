@@ -9,7 +9,7 @@ public class Pilhas {
 
         String texto; //Texto para inverter
         String TextoI = ""; //Texto invertido
-        char[] p = new char[100]; //valores da pilha, no caso as letres "char"
+        char[] p = new char[200]; //valores da pilha, no caso as letres "char"
         int topo; //Topo da Pilha
         int i, j;
         char pa;
